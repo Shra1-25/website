@@ -7766,6 +7766,12 @@ readers do not read off random characters that represent icons */
 :root, :host {
   --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free"; }
 
+.fa-google-scholar {
+  content: url('../../images/google-scholar.svg');
+  height: 1em;
+  width: auto;
+}
+
 @font-face {
   font-family: 'Font Awesome 6 Free';
   font-style: normal;

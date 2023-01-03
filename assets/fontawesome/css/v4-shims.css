@@ -2144,3 +2144,9 @@
 .fa.fa-meetup {
   font-family: 'Font Awesome 6 Brands';
   font-weight: 400; }
+
+.fa-google-scholar:before {
+  content: url('../../images/google-scholar.svg');
+  height: 1em;
+  width: auto;
+}
